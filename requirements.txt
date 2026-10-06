@@ -1,0 +1,6 @@
+python-terrier>=1.0
+feedparser>=6.0
+pandas
+transformers
+accelerate
+torch

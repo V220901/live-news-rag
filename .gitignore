@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+tesla_news_index/
+*_index/
+.ipynb_checkpoints/
+.DS_Store
