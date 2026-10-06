@@ -62,7 +62,7 @@ Question: *What specific news events or reports are driving Tesla's (TSLA) stock
 
 - **Without RAG:** the model says it has no real-time access and points to news websites.
 - **With RAG:** it cites the Q3 2026 delivery beat, the stabilizing EV demand comment, and Dan Ives' 2027 outlook, all taken from the retrieved articles.
-
+    ![Demo: answer without RAG vs with RAG](docs/demo.png)
 See [`docs/sample_output.md`](docs/sample_output.md) for the full output.
 
 ## Notes and limitations
